@@ -8,11 +8,13 @@ analysis and defensible findings.
 
 ## Current Work
 
-- **TraceSOC** — provenance-first SOC/DFIR evidence-reconstruction engine
+- **[TraceSOC](https://github.com/adaobievelyn/traceSOC)** — provenance-first SOC/DFIR evidence-reconstruction engine
+- **[8GB Wazuh SOC Lab](https://github.com/adaobievelyn/8GB-SOC-Lab-Wazuh)** — multi-endpoint SIEM engineering and security-event investigation under hardware constraints
+- **[SOC / DFIR / Detection Engineering Portfolio](https://github.com/adaobievelyn/SOC-Analyst-Portfolio)** — selected investigations, engineering work and technical evidence
+- **GCP + Elastic Security** — SSH attack investigation, telemetry analysis and hardening
 - **UBI Advanced Fellow — SOC Analysis / Stage 9B Finalist**
-- **8GB Wazuh SOC Lab** — multi-endpoint SIEM engineering under hardware constraints
-- **GCP + Elastic Security** — SSH attack investigation and hardening
 
+Selected UBI assessment repositories remain private because they contain controlled programme material. I can discuss the engineering in detail and provide appropriate technical walkthroughs or sanitized evidence during an interview when relevant.
 ## Technical Focus
 
 `SOC` · `DFIR` · `Detection Engineering` · `Threat Hunting` · `Python`
