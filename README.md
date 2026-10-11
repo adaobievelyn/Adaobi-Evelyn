@@ -1,22 +1,29 @@
-# Hi, I'm Adaobi Evelyn
+# Hi, I'm Nnanna Adaobi Evelyn
 
-I am building hands-on experience as a SOC Analyst, focusing on real-world security monitoring, threat detection, and incident response.
+### SOC Analysis | Incident Response & DFIR | Detection Engineering
 
-## What I’m Currently Working On
+I work across security operations, incident reconstruction, detection
+engineering and security telemetry, with an emphasis on evidence-driven
+analysis and defensible findings.
 
-* Cloud SIEM Attack Detection Lab
-* Threat Hunting using real log datasets
-* Phishing email analysis
+## Current Work
 
-## What I’m Learning
+- **TraceSOC** — provenance-first SOC/DFIR evidence-reconstruction engine
+- **UBI Advanced Fellow — SOC Analysis / Stage 9B Finalist**
+- **8GB Wazuh SOC Lab** — multi-endpoint SIEM engineering under hardware constraints
+- **GCP + Elastic Security** — SSH attack investigation and hardening
 
-* Detection engineering
-* Log correlation
-* MITRE ATT&CK mapping
+## Technical Focus
 
-## Connect with me
+`SOC` · `DFIR` · `Detection Engineering` · `Threat Hunting` · `Python`
+· `DuckDB` · `Wazuh` · `Elastic Security` · `Sysmon` · `Zeek`
+· `Suricata` · `KQL` · `Linux` · `Windows`
 
-* LinkedIn: (https://www.linkedin.com/in/adaobievelyn/)
+## Beyond the Lab
 
+I write practical cybersecurity content and have delivered digital-safety
+awareness sessions across 7 schools, reaching 600+ students.
 
-I am actively working toward becoming a Tier 1 SOC Analyst.
+[LinkedIn](https://www.linkedin.com/in/adaobievelyn/)
+·
+[Medium](https://medium.com/@nnanna.adaobi.e)
